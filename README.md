@@ -1,7 +1,7 @@
 # Backend Api Todo List
 
 ## Endpoints
-URL Base : __ [https://todoapp-back.herokuapp.com/api/v1/](https://todoapp-back.herokuapp.com/api/v1/) __
+**URL Base** : [https://todoapp-back.herokuapp.com/api/v1/](https://todoapp-back.herokuapp.com/api/v1/)
 
 ### GET /todos
 Seleciona todos as tarefas criadas
